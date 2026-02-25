@@ -4,6 +4,7 @@
 * avocado
 * lemon
 * salt
+* diced tomatoes
 ## Instructions
 
 
